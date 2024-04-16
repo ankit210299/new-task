@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967980018698",
+    "project_id": "realmtask-app",
+    "storage_bucket": "realmtask-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967980018698:android:94fc0b2f96ecb62e0cc3f3",
+        "android_client_info": {
+          "package_name": "com.example.realmtaskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUncB2cgS4h9A5Jk3Ul1z5O-SsXNr1gH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
